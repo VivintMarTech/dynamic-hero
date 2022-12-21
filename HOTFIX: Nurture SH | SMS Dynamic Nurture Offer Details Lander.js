@@ -1,3 +1,7 @@
+// TARGETING:
+// https://www.vivint.com/promo/text-evergreen
+// https://www.vivint.com/promo/text-evergreen-attentive
+
 try{
     // grab Optimizely tools
     var utils = window.optimizely.get('utils');
