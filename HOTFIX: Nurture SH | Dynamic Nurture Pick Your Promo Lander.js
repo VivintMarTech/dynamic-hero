@@ -1,3 +1,6 @@
+// TARGETING:
+// https://www.vivint.com/promo/pick
+
 try {
 // grab Optimizely tools
 var utils = window.optimizely.get('utils');
