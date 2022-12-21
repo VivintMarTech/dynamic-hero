@@ -1,3 +1,6 @@
+// TARGETING:
+// https://www.vivint.com/influencers/evergreen
+
 try{
     //dynamic hero
     (function () {
