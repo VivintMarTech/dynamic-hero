@@ -1,3 +1,6 @@
+// TARGETING:
+// https://www.vivint.com/ps/security
+
 try{
     //dynamic hero
     (function () {
