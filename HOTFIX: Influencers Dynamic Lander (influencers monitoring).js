@@ -1,3 +1,6 @@
+// TARGETING:
+// https://www.vivint.com/influencers/monitoring
+
 try{
     //dynamic hero
     (function () {
