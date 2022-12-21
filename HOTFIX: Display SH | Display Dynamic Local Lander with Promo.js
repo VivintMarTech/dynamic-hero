@@ -1,3 +1,6 @@
+// TARGETING:
+// https://www.vivint.com/display/location
+
 try{
     // grab Optimizely tools
     var utils = window.optimizely.get('utils');
