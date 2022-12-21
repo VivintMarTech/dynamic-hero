@@ -1,3 +1,6 @@
+// TARGETING:
+// vivint.com/display/other/security
+
 //dynamic hero
 (function () {
 
