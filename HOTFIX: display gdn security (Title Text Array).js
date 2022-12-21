@@ -1,3 +1,6 @@
+// TARGETING:
+// https://www.vivint.com/display/gdn/security
+
 try{
     //dynamic hero
     (function () {
